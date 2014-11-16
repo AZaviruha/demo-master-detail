@@ -12,7 +12,7 @@ npm start
 
 ### TODO
 This is work-in-progress.
-For now all it contains is demonstration of react-pager component.
+For now all it contains is demonstration of [react-pager](https://github.com/AZaviruha/pager) component.
 All other components (data-grid, form-generator, unified data resources) are already exists, but must be refined before publication.
 
 * Add DataGrid component.
